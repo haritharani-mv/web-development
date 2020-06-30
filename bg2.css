@@ -1,0 +1,15 @@
+body{
+background: url("../images/rose.jpg")
+no-repeat center center fixed;
+background-size:cover;
+}
+h1
+{
+color:blue;
+text-align:center;
+border: 2px solid darkgreen;
+width: 300 px;
+padding: 20 px;
+margin: 200px auto;
+    font-family: 'Yellowtail', cursive;
+}

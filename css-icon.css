@@ -1,0 +1,19 @@
+body{
+background: url("../images/rose.jpg")
+no-repeat center center fixed;
+background-size: cover;
+}
+div{
+background-color: white;
+
+}
+i{
+    color: black;
+}
+
+h1
+{
+color: blue;
+text-align: center;
+font-size: 3em;
+}

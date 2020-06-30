@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>css basics</title>
+<link href="https://fonts.googleapis.com/css2?family=Yellowtail&display=swap" rel="stylesheet">
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="font.css" rel="stylesheet">
+</head>
+<body>
+<h1><i class="fa fa-hourglass-end" aria-hidden="true"></i> hello, friends</h1>
+</body>
+</html>

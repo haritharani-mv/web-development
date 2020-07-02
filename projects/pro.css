@@ -1,0 +1,33 @@
+body{
+background: url("../images/gym.jpg")
+no-repeat center center fixed;
+background-size:cover;
+    font-family: 'Piedra', cursive;
+}
+div
+{
+    background-color: aliceblue;
+    text-align: center;
+    margin: 0 auto;
+    width: 60%;
+    border-radius: 30px;
+    opacity: o.6em;
+
+}
+button
+{
+    background: orange;
+    font-size:3 em;
+    padding:2px;
+    color:white;
+}
+h1{
+    font-size: 4em;
+    
+}
+p{
+    font-size: 1.8em;
+}
+i{
+   font-size: :20 em; 
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>sushi restro coming soon</title>
+    
+    <link rel="stylesheet" href="sushi.css">
+    
+</head>
+<body>
+   <div>
+   <h1>welcome to sushi restro</h1>
+   <p>EAT DRINK SMILE</p>
+    </div>
+    <video>
+     <source src="video/sushi.mp4" type="video/mp4">
+    </video>
+</body>
+</html> 

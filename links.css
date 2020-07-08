@@ -1,0 +1,35 @@
+/*
+a
+{
+ font-size: 30 px;   
+}
+a:link
+{
+    color: red;
+}
+a:visited
+{
+    color:yellow;
+}
+a:hover
+{
+    color:black;
+}
+a:active
+{
+    color:chartreuse;
+}*/
+a:link,a:visited{
+    background-color: palevioletred;
+    padding:25px 35px;
+    color:white;
+    display: inline-block;
+    font size:20 px;
+}
+a:hover{
+    background-color: black;
+}
+a:active
+{
+    background-color: forestgreen;
+}

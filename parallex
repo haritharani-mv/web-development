@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>parallex</title>
+    <link rel="stylesheet" href="parallex.css">
+</head>
+<body>
+   <div class="blue">
+     
+      <h1>this is about parallex</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+       
+   </div>
+   <div>
+       
+   </div>
+   <div class="blue">
+      
+      <h1>this is about parallex</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> 
+   </div>
+   <div>
+       
+   </div>
+    
+</body>
+</html>

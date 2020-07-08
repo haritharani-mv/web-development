@@ -1,0 +1,22 @@
+div
+{
+background-color: gray;
+height:300 px;
+}
+.blue
+{
+    background-color: skyblue;
+}
+.black
+{
+    background-color: darkgreen;
+}
+h1
+{
+ text-align:center;
+    
+}
+p
+{
+    text-align: center;
+}

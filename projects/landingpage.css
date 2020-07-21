@@ -1,0 +1,50 @@
+html
+{
+    height:100%;
+}
+.navbar-default .navbar-brand
+{
+    color: black;
+}
+body
+{
+    background:url(https://images.pexels.com/photos/459654/pexels-photo-459654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+    background-position: center;
+    font-family: catamaran;
+    font-size: 25px;
+    color: black;
+}
+.center
+{
+    text-align: center;
+    padding-top: 15%;
+}
+.span
+{
+    padding-top: 15px;
+}
+/*
+h2 > span
+{
+    color: white;
+}
+*/
+@media(max-width:768px)
+{
+    h2
+    {
+        background-color:blueviolet;
+    }
+    h1
+    {
+        background-color: blueviolet;
+    }
+}
+@media(max-width:992px)
+{
+    h1
+    {
+        background-color: brown;
+    }
+}

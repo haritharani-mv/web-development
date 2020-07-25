@@ -4,4 +4,3 @@ var myAccount = 3;
 var y = 2;
 var z = myAccount + y;
 document.getElementById("test").innerHTML = "hello" + z;
-

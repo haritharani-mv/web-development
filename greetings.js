@@ -1,6 +1,6 @@
-var greetings = "h";
+var greetings = 10;
 
 
 
 
-document.getElementById("test").innerHTML = greetings;
+document.getElementById("test").innerHTML = greetings

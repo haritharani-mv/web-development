@@ -1,8 +1,8 @@
-var greeting = "";
-var myScore = 100;
-var highScore = 200;
-if (myScore < highScore) {
-	greeting = "300"
+var myAccount = "";
+var highScore = 300;
+var myScore = 200;
+if (myScore < highScore) 
+{
+ myAccount = "1000"   
 }
-
-document.getElementById("test").innerHTML = greeting;
+document.getElementById("test").innerHTML = myAccount;

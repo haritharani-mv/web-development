@@ -5,4 +5,5 @@ if (myScore < highScore)
 {
  myAccount = "1000"   
 }
-document.getElementById("test").innerHTML = myAccount;
+test = document.getElementById("test").innerHTML;
+test = myAccount;

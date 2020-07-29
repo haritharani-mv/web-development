@@ -1,5 +1,5 @@
 var myAccount = "";
-var highScore = 100;
+var highScore = 1;
 var myScore = 200;
 switch (highScore)
 {

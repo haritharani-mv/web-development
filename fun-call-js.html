@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Functions</h2>
+<p>this is the call method in functions:</p>
+
+<p id="demo"></p>
+
+<script>
+var person = {
+  fullName: function(city, country) {
+    return this.firstName + " " + this.lastName + "," + city + "," + country;
+  }
+}
+var person1 = {
+  firstName:"sai",
+  lastName: "kalyan"
+}
+var person2 = {
+  firstName:"Mannem",
+  lastName: " venkata haritha rani"
+}
+var x = person.fullName.call(person2, "s.konda", "india"); 
+document.getElementById("demo").innerHTML = x; 
+</script>
+
+</body>
+</html>

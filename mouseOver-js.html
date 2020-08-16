@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> basics of javascript </title> 
+</head>
+<body>
+   <h1>friends are like a family</h1>
+   <h2>everyone can create this kind of page</h2>
+   <h3>if this is too tough for you,then take a look -at html course</h3>
+   <h5>if this is too tough for you,then take a look at html course</h5>
+   <p>online education is a revolutionary step.peoplw now can learn a lot of things in just one day.go as fast as you can or as many time as you wish</p>
+<div onmouseOver="mDown(this)" onmouseDown="mUp(this)"
+         style="background-color : green;width = 100px; height=130px; padding=30px;">
+         hey!click me
+</div>
+   <ul>
+       <li>quality courses</li>
+       <li>watch,repeat and learn</li>
+   </ul>
+   <script>
+       function mDown(obj)
+	{
+	 obj.style.backgroundColor = "yellow";
+	 obj.innerHTML = "you clicked me!"
+	}
+	function mUp(obj)
+	{
+	 obj.style.backgroundColor = "blue";
+	 obj.innerHTML = "you go away!"
+	}
+
+       
+    </script>
+    
+
+</body>
+</html>

@@ -5,6 +5,10 @@ html,body
 }
 #clock
 {
-    background-color: blueviolet;
     color: white;
+    font-family: 'Baloo Tamma 2', cursive;
+    font-size: 70px;
+    position: relative;
+    top: 25%;
+    text-align: center;
 }

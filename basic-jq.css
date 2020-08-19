@@ -1,0 +1,16 @@
+body
+{
+    background-color: green;
+    color: aliceblue;
+}
+.center
+{
+    text-align: center;
+    font-size: 2em;
+    
+}
+.center button
+{
+
+color: red;
+}

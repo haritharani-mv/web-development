@@ -1,0 +1,10 @@
+$(document).ready(function(){
+  $(".btn-1").click(function(){
+    $("div").addClass("new");
+  });
+});
+$(document).ready(function(){
+  $(".btn-2").click(function(){
+    $("div").toggleClass("new");
+  });
+});

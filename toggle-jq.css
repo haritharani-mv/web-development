@@ -1,0 +1,25 @@
+body
+{
+    background-color: green;
+    color: aliceblue;
+}
+.center
+{
+    text-align: center;
+    font-size: 2em;
+    
+}
+.center button
+{
+
+color: red;
+}
+.center img
+{
+ margin-top: -90px;
+}
+.new
+{
+    text-align: left;
+    color: black;
+}
